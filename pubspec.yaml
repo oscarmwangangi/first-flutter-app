@@ -87,10 +87,10 @@ flutter:
   #         weight: 700
   #
 
-  fonts:
-    - family: Pacifico
-      fonts:
-        - asset: fonts/Pacifico-Regular.ttf
+#  fonts:
+#    - family: Pacifico
+#      fonts:
+#        - asset: fonts/Pacifico-Regular.ttf
 #        - asset: fonts/Raleway-Italic.ttf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
